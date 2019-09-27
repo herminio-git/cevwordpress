@@ -26,7 +26,7 @@
 	- (-) Rank Math SEO 
 	- (-) Really Simple SLL 
 	- (-) Ultimate Addons for Gutenberg 
-		( já veio instalado e intalado com o Gutenberg Blocks)
+		( já veio junto e ativado e instalado com o Gutenberg Blocks)
 	- (-) UpdraftPlus - Backup/Restore  
 	- (-) WP Mail SMTP  
 	- (-) WP Super Cache  
