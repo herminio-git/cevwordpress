@@ -3,12 +3,12 @@
 	# Curso WordPress Profissional /Curso em Vídeo
 
 	PlayList do curso:
-	https://www.youtube.com/watch?v=JPR4OK4c35Q&list=TLGGZcfb5MzlvKQyNzA5MjAxOQ&index=12
+	[https://www.youtube.com/watch?v=JPR4OK4c35Q&list=TLGGZcfb5MzlvKQyNzA5MjAxOQ&index=12]
  
 	--------------------------------------------------------------------------------
 	
 	# Tema: Astra Child Theme Generator
-	https://wpastra.com/child-theme-generator/
+	[https://wpastra.com/child-theme-generator/]
 	
 	--------------------------------------------------------------------------------
 
@@ -26,13 +26,19 @@
 	- (-) Rank Math SEO 
 	- (-) Really Simple SLL 
 	- (-) Ultimate Addons for Gutenberg 
-		( já veio junto e ativado e instalado com o Gutenberg Blocks)
+		( já veio junto é ativado e instalado com o "Gutenberg Blocks")
 	- (-) UpdraftPlus - Backup/Restore  
 	- (-) WP Mail SMTP  
 	- (-) WP Super Cache  
 
 	--------------------------------------------------------------------------------
-
+    
+		Edição em arquivos README.md
+		[https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8]
+		
+		[https://github.com/herminio-git/Markdown-Tutorial]
+		
+		
 	--------------------------------------------------------------------------------
 
 	--------------------------------------------------------------------------------
