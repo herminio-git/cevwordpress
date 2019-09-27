@@ -3,12 +3,12 @@
 	# Curso WordPress Profissional /Curso em Vídeo
 
 	PlayList do curso:
-	()[https://www.youtube.com/watch?v=JPR4OK4c35Q&list=TLGGZcfb5MzlvKQyNzA5MjAxOQ&index=12]
+	[https://www.youtube.com/watch?v=JPR4OK4c35Q&list=TLGGZcfb5MzlvKQyNzA5MjAxOQ&index=12]
  
 	--------------------------------------------------------------------------------
 	
 	# Tema: Astra Child Theme Generator
-	()[https://wpastra.com/child-theme-generator/]
+	[https://wpastra.com/child-theme-generator/]
 	
 	--------------------------------------------------------------------------------
 
