@@ -1,13 +1,35 @@
 # cevwordpress
 
+	# Curso WordPress Profissional /Curso em Vídeo
 
+	PlayList do curso:
+	https://www.youtube.com/watch?v=JPR4OK4c35Q&list=TLGGZcfb5MzlvKQyNzA5MjAxOQ&index=12
  
 	--------------------------------------------------------------------------------
 	
-	Tema: Astra Child Theme Generator
+	# Tema: Astra Child Theme Generator
 	https://wpastra.com/child-theme-generator/
 	
 	--------------------------------------------------------------------------------
+
+	#Plugins:
+	
+	- (+) Microthemer Lite 
+	- (+) Editor Classic 
+	- (+) Gutenberg Blocks - Ultimate Addons for Gutenberg 
+    - (+) EWWW Image Optimizer 
+	- (+) WPForms Lite 
+	- (+) WPS Hide Login  
+	- (-) Astra Widgtes 
+	- (-) Companion Auto Update 
+	- (-) Google Analytics for Wordpress by Monster/Insights 
+	- (-) Rank Math SEO 
+	- (-) Really Simple SLL 
+	- (-) Ultimate Addons for Gutenberg 
+		( já veio instalado e intalado com o Gutenberg Blocks)
+	- (-) UpdraftPlus - Backup/Restore  
+	- (-) WP Mail SMTP  
+	- (-) WP Super Cache  
 
 	--------------------------------------------------------------------------------
 
